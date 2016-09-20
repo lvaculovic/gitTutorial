@@ -3,11 +3,10 @@ vlozen druhy radek
 vlozen treti radek
 vlozen ctvrty radek
 vlozen paty radek
-<<<<<<< HEAD
-vlozen osmy radek
-=======
 vlozen sesty radek
 vlozen sedmy radek
->>>>>>> novaMaster
+vlozen osmy radek
+
 
 Editoval jsem masterSoubor
+Toto je novy radek v novaMaster
