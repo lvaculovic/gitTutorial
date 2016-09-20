@@ -4,3 +4,4 @@ vlozen treti radek
 vlozen ctvrty radek
 vlozen paty radek
 vlozen sesty radek
+vlozen sedmy radek
