@@ -5,3 +5,5 @@ vlozen ctvrty radek
 vlozen paty radek
 vlozen sesty radek
 vlozen sedmy radek
+
+Toto je novy radek v novaMaster
