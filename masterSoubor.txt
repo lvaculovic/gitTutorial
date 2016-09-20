@@ -9,3 +9,5 @@ vlozen osmy radek
 vlozen sesty radek
 vlozen sedmy radek
 >>>>>>> novaMaster
+
+Editoval jsem masterSoubor
