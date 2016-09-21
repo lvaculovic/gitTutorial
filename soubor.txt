@@ -1,5 +1,14 @@
+<<<<<<< 36f79208aba5700c5aac85f7bb6d7e8cbf3bd6a6
 sdfjj;ldsf
 fsafsa
 fdsfsa
 ffjsf
 a
+=======
+kaka
+a
+adfa
+ffasf
+fsa
+fsa
+>>>>>>> ajajaja
